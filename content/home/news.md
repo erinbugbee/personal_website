@@ -18,5 +18,3 @@ weight = 55
 [Brown Data Science Initiative](https://www.brown.edu/initiatives/data-science/news/2018/10/wonderful-world-women-data-science)
 
 [Joint Math Meetings 2017 Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf)
-
-[Golf Captain](https://www.telegram.com/article/20140406/COLUMN54/304069465)
