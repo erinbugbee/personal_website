@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Statistics",
     "Artificial Intelligence",
-    "Decision Science"
+    "Decision Science",
+    "[Data Science] (http://bds.cs.brown.edu/)"
   ]
 
 # List your qualifications (such as academic degrees).
