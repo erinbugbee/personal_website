@@ -116,4 +116,705 @@ Press Ctrl+C to stop
 ]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ 
 h^Ce 
 
-]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ 
+
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git pull github.io github.io[7@personal_website[C[C[C[C[C[C[C[C[C[C[10Public[C[C[C[C[C[C[C[C[C[C[10@ersonal_website[C[C[C[C[C[C[C[C[C[C[7Pgithub.io[C[C[C[C[C[C[C[C[C[C[Kgit pull github.io github.io[7@personal_website[C[C[C[C[C[C[C[C[C[C[10Public[C[C[C[C[C[C[C[C[C[C[Ksh --set-upstream origin masterll[K public github.io[10@ersonal_website[C[C[C[C[C[C[C[C[C[C[7Pgithub.io[C[C[C[C[C[C[C[C[C[C[Khugo
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   | 13  
+  Static files     | 12  
+  Processed images | 10  
+  Aliases          | 12  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 121 ms
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ hugo server -w
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   | 13  
+  Static files     | 12  
+  Processed images | 10  
+  Aliases          | 12  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 120 ms
+Watching for changes in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/{content,static,themes}
+Watching for config changes in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/config.toml
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/personal_website/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+^C]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ hugo server -w[Kgit pull github.io github.io[7@personal_website[C[C[C[C[C[C[C[C[C[C[10Public[C[C[C[C[C[C[C[C[C[C[Ksh --set-upstream origin master[K--set-upstream origin masterll[K public github.io[10@ersonal_website[C[C[C[C[C[C[C[C[C[C[7Pgithub.io[C[C[C[C[C[C[C[C[C[Chugo[K server -w[Kgit rm origin
+fatal: pathspec 'origin' did not match any files
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git -rm origin
+unknown option: -rm
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git clone[K[K[K[K[K[K[K[K[Kgit [K[K[K[Kgit[K[K[Krm rf -public
+rm: rf: No such file or directory
+rm: -public: No such file or directory
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git d[Ksubmodule add -b master git@github.com:erinbugbee/erinbugbee.g ithub.io git public[K[K[K[K[K[K[K[K[K[K[K.git public [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kecho 'public/' >> .gitignore
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git init
+Reinitialized existing Git repository in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/.git/
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git ro[Kemote add orin[Kgin https://github.com/erinbugbee/erinbugbee.github.io
+fatal: remote origin already exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git -rm origin
+unknown option: -rm
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git rm origin
+fatal: pathspec 'origin' did not match any files
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote rm
+usage: git remote remove <name>
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote rmm origin[1@-[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/erinbugbee/erinbugbee.github.io
+fatal: remote origin already exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote rm origin
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote rm originadd origin https://github.com/erinbugbee/erinbugbee.github.io
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pushremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush[K[Kgit push --set-upstream origin master
+To https://github.com/erinbugbee/erinbugbee.github.io
+ [31m! [rejected]       [m master -> master (non-fast-forward)
+[31merror: failed to push some refs to 'https://github.com/erinbugbee/erinbugbee.github.io'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull
+From https://github.com/erinbugbee/erinbugbee.github.io
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull public git[K[K[Kerinbugbee.github.io
+fatal: 'public' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git init
+Reinitialized existing Git repository in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/.git/
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git initpull public erinbugbee.github.io[C. erinbugbee.github.iog erinbugbee.github.ioh erinbugbee.github.io[1P erinbugbee.github.ioi erinbugbee.github.iot erinbugbee.github.io
+fatal: 'public.git' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull public.git erinbugbee.github.io[1P erinbugbee.github.io[1P erinbugbee.github.io[1P erinbugbee.github.io[1P erinbugbee.github.io
+fatal: 'public' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push public
+fatal: 'public' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git m[Kcommit -m "publ[K[K[Ka[K[Kadd public"
+[master b6bbced] add public
+ 56 files changed, 785 insertions(+), 785 deletions(-)
+ rewrite index.json (95%)
+ rewrite tags/machine-learning/page/1/index.html (100%)
+ rewrite tags/music-information-retrieval/page/1/index.html (100%)
+ rewrite tags/topological-data-analysis/page/1/index.html (100%)
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git commit -m "add public"add .[Kpush publicll public erinbugbee.github.io.git erinbugbee.github.ioinit[Kpull public erinbugbee.github.io[Ksh --set-upstream origin master[Kremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush[K
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pushcommit -m "add public"add .[Kpush publicll public erinbugbee.github.io.git erinbugbee.github.ioinit[Kpull public erinbugbee.github.io[Ksh --set-upstream origin master[K --set-upstream origin master
+To https://github.com/erinbugbee/erinbugbee.github.io
+ [31m! [rejected]       [m master -> master (non-fast-forward)
+[31merror: failed to push some refs to 'https://github.com/erinbugbee/erinbugbee.github.io'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.g it publc
+Cloning into '/Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/publc'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+fatal: clone of 'git@github.com:erinbugbee/erinbugbee.github.io.git' into submodule path '/Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/publc' failed
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.giit publc[Kic
+Cloning into '/Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/public'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+fatal: clone of 'git@github.com:erinbugbee/erinbugbee.github.io.git' into submodule path '/Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/public' failed
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.giit public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd ..git submodule add -b master git@github.com:erinbugbee/erinbugbee.giithub.io.git public
+The following path is ignored by one of your .gitignore files:
+public
+Use -f if you really want to add it.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b master git@github.com:erinbugbee/erinbugbee.giithub.io.git public -f
+The following path is ignored by one of your .gitignore files:
+public
+Use -f if you really want to add it.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ -f
+bash: -f: command not found
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ -fgit submodule add -b master git@github.com:erinbugbee/erinbugbee.giithub.io.git public -f[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- master git@github.com:erinbugbee/erinbugbee.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf master git@github.com:erinbugbee/erinbugbee.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+usage: git submodule [--quiet] add [-b <branch>] [-f|--force] [--name <name>] [--reference <repository>] [--] <repository> [<path>]
+   or: git submodule [--quiet] status [--cached] [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] init [--] [<path>...]
+   or: git submodule [--quiet] deinit [-f|--force] (--all| [--] <path>...)
+   or: git submodule [--quiet] update [--init] [--remote] [-N|--no-fetch] [-f|--force] [--checkout|--merge|--rebase] [--[no-]recommend-shallow] [--reference <repository>] [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] summary [--cached|--files] [--summary-limit <n>] [commit] [--] [<path>...]
+   or: git submodule [--quiet] foreach [--recursive] <command>
+   or: git submodule [--quiet] sync [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] absorbgitdirs [--] [<path>...]
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b-f master git@github.com:erinbugbee/erinbugbee..github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-f[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b master git@github.com:erinbugbee/erinbugbee.giithub.io.git public -f[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b master git@github.com:erinbugbee/erinbugbee.giithub.io.git public -f[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-f[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b-f master git@github.com:erinbugbee/erinbugbee..github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pu[K[Kadd .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git m[Kcommit -m "add pub[Kblic"
+On branch master
+nothing to commit, working tree clean
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push origin master
+To https://github.com/erinbugbee/erinbugbee.github.io
+ [31m! [rejected]       [m master -> master (non-fast-forward)
+[31merror: failed to push some refs to 'https://github.com/erinbugbee/erinbugbee.github.io'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git branch --set-upstream-to=origin/bra[K[K[Kpublic master
+error: the requested upstream branch 'origin/public' does not exist
+[33mhint: [m
+[33mhint: If you are planning on basing your work on an upstream[m
+[33mhint: branch that already exists at the remote, you may need to[m
+[33mhint: run "git fetch" to retrieve it.[m
+[33mhint: [m
+[33mhint: If you are planning to push out a new local branch that[m
+[33mhint: will track its remote counterpart, you may want to use[m
+[33mhint: "git push -u" to set the upstream config as you push.[m
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push -u
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push -ubranch --set-upstream-to=origin/public master[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpull[Ksh origin mastercommit -m "add public"add .[Kcd publicgit submodule add -b-f master git@github.com:erinbugbee/erinbugbee.github.io..git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-f[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.giit public -f[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.giit public[1Pc[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpull[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh --set-upstream origin master[K --set-upstream origin master
+To https://github.com/erinbugbee/erinbugbee.github.io
+ [31m! [rejected]       [m master -> master (non-fast-forward)
+[31merror: failed to push some refs to 'https://github.com/erinbugbee/erinbugbee.github.io'
+[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
+[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
+[33mhint: 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pull public master
+fatal: 'public' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ rm[K[Kcd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd ..git pull public mastercd ..[K[Kremove r[K-f[Krf public
+bash: remove: command not found
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ rm -rf public
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ rm -rf public[4@emove[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kgit pull public master[Ksh --set-upstream origin masteru[Kbranch --set-upstream-to=origin/public masterpull[Ksh origin mastercommit -m "add public"add .[Kcd publicgit submodule add -b-f master git@github.com:erinbugbee/erinbugbee..github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-f[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b-f master git@github.com:erinbugbee/erinbugbee..github.io.git public
+usage: git submodule [--quiet] add [-b <branch>] [-f|--force] [--name <name>] [--reference <repository>] [--] <repository> [<path>]
+   or: git submodule [--quiet] status [--cached] [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] init [--] [<path>...]
+   or: git submodule [--quiet] deinit [-f|--force] (--all| [--] <path>...)
+   or: git submodule [--quiet] update [--init] [--remote] [-N|--no-fetch] [-f|--force] [--checkout|--merge|--rebase] [--[no-]recommend-shallow] [--reference <repository>] [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] summary [--cached|--files] [--summary-limit <n>] [commit] [--] [<path>...]
+   or: git submodule [--quiet] foreach [--recursive] <command>
+   or: git submodule [--quiet] sync [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] absorbgitdirs [--] [<path>...]
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ hugo
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 44  
+  Paginator pages  |  0  
+  Non-page files   | 13  
+  Static files     | 12  
+  Processed images | 10  
+  Aliases          | 12  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 142 ms
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git m[Kcommit -m "add public"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E.env[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/INDEX001[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/379821CE[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/8A0E43D6[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/B3922A90[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/lock_file[m
+	[31mmodified:   ../.Rproj.user/shared/notebooks/6A1E7F9D-index/1/s/chunks.json[m
+	[31mmodified:   ../.gitignore[m
+	[31mmodified:   ../index.Rmd[m
+
+no changes added to commit
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push origin master
+Everything up-to-date
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ ./deplot[Ky.sh "Deplot [K[Ky site"
+bash: ./deploy.sh: No such file or directory
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ er[K[Kserve_site()
+> 
+.DS_Store               .git/                   index.Rmd               resources/
+.RData                  .gitignore              personal_website/       static/
+.Rhistory               config.toml             personal_website.Rproj  themes/
+.Rproj.user/            content/                public/                 
+> 
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ serve_site()./deploy.sh "Deploy site"cd ..[Kgit push origin mastercommit -m "add public"add .[Kcommit -m "add public"[4Ppush origin mastercd ..[K./deploy.sh "Deploy site"[13Pserve_site()[Kgi[K[Kcd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E.env[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/INDEX001[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/379821CE[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/8A0E43D6[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/B3922A90[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/INDEX[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/lock_file[m
+	[31mmodified:   ../.Rproj.user/shared/notebooks/6A1E7F9D-index/1/s/chunks.json[m
+	[31mmodified:   ../.Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   ../.gitignore[m
+	[31mmodified:   ../index.Rmd[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git commit "[K-m "update public"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E.env[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/INDEX001[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/379821CE[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/8A0E43D6[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/B3922A90[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/sources/prop/INDEX[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA-contents[m
+	[31mdeleted:    ../.Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/lock_file[m
+	[31mmodified:   ../.Rproj.user/shared/notebooks/6A1E7F9D-index/1/s/chunks.json[m
+	[31mmodified:   ../.Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   ../.gitignore[m
+	[31mmodified:   ../index.Rmd[m
+
+no changes added to commit
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push
+Everything up-to-date
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ buil[K[K[K[Kcd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd [K[K[Kgit ori[K[K[K[K[K[K[Kremote -v origin
+bash: remote: command not found
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote -v origin
+error: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remov[Kte -v
+origin	https://github.com/erinbugbee/personal_website.git (fetch)
+origin	https://github.com/erinbugbee/personal_website.git (push)
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git rm origin
+fatal: pathspec 'origin' did not match any files
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git rm originemote -v origin[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pcd public[4P..git pushcommit -m "update public"add .[Kstatus[1Pcd publicserve_site()./deploy.sh "Deploy site"cd ..[Kgit push origin mastercommit -m "add public"add .[Kcd public[5Phugogit submodule add -b-f master git@github.com:erinbugbee/erinbugbee.github.io..git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm -rf public[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@emove[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kgit pull public master[K public mastercd ..[Kremove -rf public[4Pm[C[C[C[C[C[C[C[C[C[C[C[4@emove[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kgit pull public master[Ksh --set-upstream origin masteru[Kbranch --set-upstream-to=origin/public master[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpull[Ksh origin mastercommit -m "add public"add .[Kcd publicgit submodule add -b-f master git@github.com:erinbugbee/erinbugbee.github.io..git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-f[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.giit public -f[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b master git@github.com:erinbugbee/erinbugbee.github.io.giit public[1Pc[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpull[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh --set-upstream origin master[Kcommit -m "add public"add .[Kpush publicll public erinbugbee.github.io.git erinbugbee.github.ioinit[Kpull public erinbugbee.github.io[Ksh --set-upstream origin master[Kremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush[K --set-upstream origin master[Kremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm origin[Kadd origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm[Km origin[1@-[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-rm origin[K[1P[C[C[C[C[C[C[C[C[C[1@-[C[C[C[C[C[C[C[C[C
+unknown option: -rm
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remotr[Ke -rm origin
+error: unknown switch `r'
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote remove origin
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git init
+Initialized empty Git repository in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/.git/
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote add origin erinbugbee/erinbugbee[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/erinbugbee/erinbugbee.github.io
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git oush[K[K[K[Kpush
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git commit -m "add public"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m404.html[m
+	[31mcategories/[m
+	[31mcss/[m
+	[31mfiles/[m
+	[31mhome/[m
+	[31mimg/[m
+	[31mindex.html[m
+	[31mindex.json[m
+	[31mindex.xml[m
+	[31mjs/[m
+	[31mpost/[m
+	[31mprivacy/[m
+	[31mproject/[m
+	[31mpublication/[m
+	[31mpublication_types/[m
+	[31msite.webmanifest[m
+	[31msitemap.xml[m
+	[31mslides/[m
+	[31mstyles.css[m
+	[31mtags/[m
+	[31mtalk/[m
+	[31mtutorial/[m
+
+nothing added to commit but untracked files present
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ ga[Kit add .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .commit -m "add public"
+[master (root-commit) 72226b4] add public
+ 95 files changed, 20977 insertions(+)
+ create mode 100644 404.html
+ create mode 100644 categories/index.html
+ create mode 100644 categories/index.xml
+ create mode 100644 categories/page/1/index.html
+ create mode 100644 css/reveal_custom.min.css
+ create mode 100644 files/resume.pdf
+ create mode 100644 home/index.xml
+ create mode 100644 img/ErinKrakow.jpg
+ create mode 100644 img/boards.jpg
+ create mode 100644 img/headers/bubbles-wide.jpg
+ create mode 100644 img/icon-192.png
+ create mode 100644 img/icon.png
+ create mode 100644 img/portrait.jpg
+ create mode 100644 index.html
+ create mode 100644 index.json
+ create mode 100644 index.xml
+ create mode 100644 js/academic-bundle-pre.min.js
+ create mode 100644 js/academic.min.d037ee5294b166a79dec317c58aea9cc.js
+ create mode 100644 js/mathjax-config.js
+ create mode 100644 js/vendor/reveal.js/plugin/notes/notes.html
+ create mode 100644 js/vendor/reveal.js/plugin/notes/notes.js
+ create mode 100644 post/getting-started/featured.jpg
+ create mode 100644 post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_150x0_resize_q75_box.jpg
+ create mode 100644 post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_680x500_fill_q90_box_smart1.jpg
+ create mode 100644 post/getting-started/featured_hub9ee31969f44a6711206a2baf9f065b4_241861_800x0_resize_q75_box.jpg
+ create mode 100644 post/getting-started/gallery/theme-1950s.png
+ create mode 100644 post/getting-started/gallery/theme-apogee.png
+ create mode 100644 post/getting-started/gallery/theme-coffee-playfair.png
+ create mode 100644 post/getting-started/gallery/theme-cupcake.png
+ create mode 100644 post/getting-started/gallery/theme-dark.png
+ create mode 100644 post/getting-started/gallery/theme-default.png
+ create mode 100644 post/getting-started/gallery/theme-forest.png
+ create mode 100644 post/getting-started/gallery/theme-ocean.png
+ create mode 100644 post/getting-started/index.html
+ create mode 100644 post/index.html
+ create mode 100644 post/index.xml
+ create mode 100644 post/page/1/index.html
+ create mode 100644 privacy/index.html
+ create mode 100644 project/external-project/featured.jpg
+ create mode 100644 project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_680x500_fill_q90_box_smart1.jpg
+ create mode 100644 project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_800x0_resize_q75_box.jpg
+ create mode 100644 project/external-project/index.html
+ create mode 100644 project/index.html
+ create mode 100644 project/index.xml
+ create mode 100644 project/internal-project/featured.jpg
+ create mode 100644 project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_680x500_fill_q90_box_smart1.jpg
+ create mode 100644 project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_800x0_resize_q75_box.jpg
+ create mode 100644 project/internal-project/index.html
+ create mode 100644 project/page/1/index.html
+ create mode 100644 publication/index.html
+ create mode 100644 publication/index.xml
+ create mode 100644 publication/ismir2018/cite.bib
+ create mode 100644 publication/ismir2018/ismir2018/index.html
+ create mode 100644 publication_types/1/index.html
+ create mode 100644 publication_types/1/index.xml
+ create mode 100644 publication_types/1/page/1/index.html
+ create mode 100644 publication_types/index.html
+ create mode 100644 publication_types/index.xml
+ create mode 100644 publication_types/page/1/index.html
+ create mode 100644 site.webmanifest
+ create mode 100644 sitemap.xml
+ create mode 100644 slides/example-slides/index.html
+ create mode 100644 slides/index.xml
+ create mode 100644 styles.css
+ create mode 100644 tags/academic/index.html
+ create mode 100644 tags/academic/index.xml
+ create mode 100644 tags/academic/page/1/index.html
+ create mode 100644 tags/deep-learning/index.html
+ create mode 100644 tags/deep-learning/index.xml
+ create mode 100644 tags/deep-learning/page/1/index.html
+ create mode 100644 tags/demo/index.html
+ create mode 100644 tags/demo/index.xml
+ create mode 100644 tags/demo/page/1/index.html
+ create mode 100644 tags/index.html
+ create mode 100644 tags/index.xml
+ create mode 100644 tags/machine-learning/index.html
+ create mode 100644 tags/machine-learning/index.xml
+ create mode 100644 tags/machine-learning/page/1/index.html
+ create mode 100644 tags/music-information-retrieval/index.html
+ create mode 100644 tags/music-information-retrieval/index.xml
+ create mode 100644 tags/music-information-retrieval/page/1/index.html
+ create mode 100644 tags/page/1/index.html
+ create mode 100644 tags/topological-data-analysis/index.html
+ create mode 100644 tags/topological-data-analysis/index.xml
+ create mode 100644 tags/topological-data-analysis/page/1/index.html
+ create mode 100644 talk/example/featured.jpg
+ create mode 100644 talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_150x0_resize_q75_box.jpg
+ create mode 100644 talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_680x500_fill_q90_box_right.jpg
+ create mode 100644 talk/example/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_620088_800x0_resize_q75_box.jpg
+ create mode 100644 talk/example/index.html
+ create mode 100644 talk/index.html
+ create mode 100644 talk/index.xml
+ create mode 100644 tutorial/example/index.html
+ create mode 100644 tutorial/index.html
+ create mode 100644 tutorial/index.xml
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git commit -m "add public"add .[Kcommit -m "add public"push[Kremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpush[K
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git pushcommit -m "add public"add .[Kcommit -m "add public"push[Kremote add origin https://github.com/erinbugbee/erinbugbee.github.io[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kremote remove origin[3P-rm[C[C[C[C[C[C[C[7P[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[Cemote -v origin[4P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7Pcd public[4P..git pushcommit -m "update public"add .[Kstatus[1Padd .commit -m "update public"push[K;2A[K[K[K s[K[K --set-upstream origin master
+To https://github.com/erinbugbee/erinbugbee.github.io
+ [31m! [rejected]       [m master -> master (fetch first)
+[31merror: failed to push some refs to 'https://github.com/erinbugbee/erinbugbee.github.io'
+[m[33mhint: Updates were rejected because the remote contains work that you do[m
+[33mhint: not have locally. This is usually caused by another repository pushing[m
+[33mhint: to the same ref. You may want to first integrate the remote changes[m
+[33mhint: (e.g., 'git pull ...') before pushing again.[m
+[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git py[Kull
+warning: no common commits
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)   [Kremote: Counting objects:  66% (2/3)   [Kremote: Counting objects: 100% (3/3)   [Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+From https://github.com/erinbugbee/erinbugbee.github.io
+ * [new branch]      master     -> origin/master
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote remove origin
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b master git@github.com:<USERNAME>/<USERNAME>.g ithub.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.git[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.gith[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.githu[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github.i[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github.io[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github.io.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github.io.g[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.github.io.gi[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce.github.io.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr.github.io.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci.github.io[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn.github.i[1@o[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb.github.[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu.github[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg.githu[1@b[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb.gith[1@u[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce.git[1@h[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce.gi[1@t[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.git[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.gith[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.githu[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github.i[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github.io[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github.io.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github.io.g[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee.github.io.gi[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce/erinbugbee.github.io.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr/erinbugbee.github.io.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci/erinbugbee.github.io[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn/erinbugbee.github.i[1@o[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb/erinbugbee.github.[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu/erinbugbee.github[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cg/erinbugbee.githu[1@b[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cb/erinbugbee.gith[1@u[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce/erinbugbee.git[1@h[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce/erinbugbee.gi[1@t[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+The following path is ignored by one of your .gitignore files:
+public
+Use -f if you really want to add it.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b master git@github.com:erinbugbee/erinbugbee.giithub.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf master git@github.com:erinbugbee/erinbugbee.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+usage: git submodule [--quiet] add [-b <branch>] [-f|--force] [--name <name>] [--reference <repository>] [--] <repository> [<path>]
+   or: git submodule [--quiet] status [--cached] [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] init [--] [<path>...]
+   or: git submodule [--quiet] deinit [-f|--force] (--all| [--] <path>...)
+   or: git submodule [--quiet] update [--init] [--remote] [-N|--no-fetch] [-f|--force] [--checkout|--merge|--rebase] [--[no-]recommend-shallow] [--reference <repository>] [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] summary [--cached|--files] [--summary-limit <n>] [commit] [--] [<path>...]
+   or: git submodule [--quiet] foreach [--recursive] <command>
+   or: git submodule [--quiet] sync [--recursive] [--] [<path>...]
+   or: git submodule [--quiet] absorbgitdirs [--] [<path>...]
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -bf master git@github.com:erinbugbee/erinbugbee.ggithub.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C master git@github.com:erinbugbee/erinbugbee.gi[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C master git@github.com:erinbugbee/erinbugbee.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- master git@github.com:erinbugbee/erinbugbee.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf master git@github.com:erinbugbee/erinbugbee[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master git@github.com:erinbugbee/erinbugbeee.github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf master git@github.com:erinbugbee/erinbugbee.g[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -f master git@github.com:erinbugbee/erinbugbee[2@.g[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.g[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.gi[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.git[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.gith[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.githu[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.i[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.io[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.io.[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.io.g[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.io.gi[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.io.git[1P public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cerinbugbee/erinbugbee.github.io.git [1Ppublic[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master erinbugbee/erinbugbee.github.io.git  public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cherinbugbee/erinbugbee.github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cterinbugbee/erinbugbee.github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cterinbugbee/erinbugbee.github.io.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cperinbugbee/erinbugbee.github.io.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cserinbugbee/erinbugbee.github.io[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:erinbugbee/erinbugbee.github.i[1@o[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee/erinbugbee.github.[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee/erinbugbee.github[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgerinbugbee/erinbugbee.githu[1@b[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cierinbugbee/erinbugbee.gith[1@u[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cterinbugbee/erinbugbee.git[1@h[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cherinbugbee/erinbugbee.gi[1@t[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cuerinbugbee/erinbugbee.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cberinbugbee/erinbugbee.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.erinbugbee/erinbugbee[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccerinbugbee/erinbugbe[1@e[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Coerinbugbee/erinbugb[C[1@e[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmerinbugbee/erinbug[1@b[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/erinbugbee/erinbu[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/https://github.com/erinbugbee/erinb[1@u[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master /https://github.com/erinbugbee/erinbbugbee.github.io.git public[1P public[1P public[1P public[1P public
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master /https://github.com/erinbugbee/erinbbugbee.github.io public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/erinbugbee/erinbu[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cug[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbu[1@g[1@b[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/https://github.com/erinbugbee/erinb[1@u[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/erinbugbee/erinbu[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/https://github.com/erinbugbee/erinb[1@u[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/erinbugbee/erinbu[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io.git public[1P public[1P public[1P public[1P public
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public.git public[4P public.git public[4P public.git public[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K git@github.con[Km:erinbugbee/erinbugbee.gihu[K[Kthub.io.g it public
+The following path is ignored by one of your .gitignore files:
+public
+Use -f if you really want to add it.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add git@github.com:erinbugbee/erinbugbee.github.io.giit public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C git@github.com:erinbugbee/erinbugbee.github.io.g[1@i[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- git@github.com:erinbugbee/erinbugbee.github.io.[1@g[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf git@github.com:erinbugbee/erinbugbee.github.io[1@.[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+Adding existing repo at 'public' to the index
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git add .
