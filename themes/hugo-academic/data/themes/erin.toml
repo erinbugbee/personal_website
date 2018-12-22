@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Erin"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#675682"
+primary_light = "#B596E7"
+primary_dark = "#513E6F"
+
+# Menu
+menu_primary = "#675682"
+menu_text = "#E7E1F1"
+menu_text_active = "#A99CBE"
+menu_title = "#E7E1F1"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
