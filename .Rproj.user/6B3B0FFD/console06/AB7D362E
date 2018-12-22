@@ -818,3 +818,171 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 ]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git add .
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote -v
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git -v[K[Kremote -v origin
+error: Unknown subcommand: origin
+usage: git remote [-v | --verbose]
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push>] <name> <url>
+   or: git remote rename <old> <new>
+   or: git remote remove <name>
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+   or: git remote [-v | --verbose] show [-n] <name>
+   or: git remote prune [-n | --dry-run] <name>
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...]
+   or: git remote set-branches [--add] <name> <branch>...
+   or: git remote get-url [--push] [--all] <name>
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>]
+   or: git remote set-url --add <name> <newurl>
+   or: git remote set-url --delete <name> <url>
+
+    -v, --verbose         be verbose; must be placed before a subcommand
+
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote -v
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote -v origin[K origin[K[Kgo[Kit remote -v
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd ..git remote -v origin[Kpush origin master[13Pcd publicgit add .push origin master[Ksubmodule add -f git@github.com:erinbugbee/erinbugbee.github.ioo.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:erinbugbee/erinbugbee.github.io.gi[3P[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-b -f master https://github.com/erinbugbee/erinbu[13@gbee.github.io[C[C[C[C[C[C[C
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git init
+Reinitialized existing Git repository in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public/.git/
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git init
+Reinitialized existing Git repository in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/.git/
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git init[3Pcd ..git initcd publicgit submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public;
+repo URL: 'master' must be absolute or begin with ./|../
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public;/
+repo URL: 'master' must be absolute or begin with ./|../
+bash: /: is a directory
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public;/[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Pcd ..git initcd publicgit submodule add -b -f master https://github.com/erinbugbee/erinbuugbee.github.io public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote -v origin[Kpush origin master[13Pcd publicgit add .push origin master[Ksubmodule add -f git@github.com:erinbugbee/erinbugbee.github.ioo.git public[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:erinbugbee/erinbugbee.github.io.gi[3P[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-b -f master https://github.com/erinbugbee/erinbu[13@gbee.github.io[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:erinbugbee/erinbugbee.github.io.gi[13Pt[C[C[C[C[C[C[C
+'public' already exists in the index
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote -v
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git remote -v[4Pcd public[66@git submodule add git@github.com:erinbugbee/erinbugbee.github.io.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-b -f master https://github.com/erinbugbee/erinbugbee.githuub.io public;/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit@github.com:erinbugbee/erinbugbee.github.io.git public
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd public[Kgit remote -v[Kgit remote -v
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git remote -v
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git init
+Reinitialized existing Git repository in /Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/.git/
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git remote add origin https://github.com/username/website.git
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ r[Kgit remote add origin https://github.com/erinbugbee/personal_websi te.git
+fatal: remote origin already exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git rm[Kemotr[Ke rm origin
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git remote rm originadd origin https://github.com/erinbugbee/personal_websitte.git
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git commit -m "update website"
+[master 643baec] update website
+ 26 files changed, 722 insertions(+), 1872 deletions(-)
+ rewrite .Rproj.user/6B3B0FFD/console06/INDEX001 (87%)
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/17E26B34-contents
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/3E47A8A9-contents
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/6B93AEEF-contents
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/91966650-contents
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/C9899A83-contents
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/EF7614AA-contents
+ delete mode 100644 .Rproj.user/6B3B0FFD/sources/s-A7EAAC5F/lock_file
+ create mode 100644 .gitmodules
+ create mode 160000 public
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git push -u origin master
+Enumerating objects: 46, done.
+Counting objects:   2% (1/46)   Counting objects:   4% (2/46)   Counting objects:   6% (3/46)   Counting objects:   8% (4/46)   Counting objects:  10% (5/46)   Counting objects:  13% (6/46)   Counting objects:  15% (7/46)   Counting objects:  17% (8/46)   Counting objects:  19% (9/46)   Counting objects:  21% (10/46)   Counting objects:  23% (11/46)   Counting objects:  26% (12/46)   Counting objects:  28% (13/46)   Counting objects:  30% (14/46)   Counting objects:  32% (15/46)   Counting objects:  34% (16/46)   Counting objects:  36% (17/46)   Counting objects:  39% (18/46)   Counting objects:  41% (19/46)   Counting objects:  43% (20/46)   Counting objects:  45% (21/46)   Counting objects:  47% (22/46)   Counting objects:  50% (23/46)   Counting objects:  52% (24/46)   Counting objects:  54% (25/46)   Counting objects:  56% (26/46)   Counting objects:  58% (27/46)   Counting objects:  60% (28/46)   Counting objects:  63% (29/46)   Counting objects:  65% (30/46)   Counting objects:  67% (31/46)   Counting objects:  69% (32/46)   Counting objects:  71% (33/46)   Counting objects:  73% (34/46)   Counting objects:  76% (35/46)   Counting objects:  78% (36/46)   Counting objects:  80% (37/46)   Counting objects:  82% (38/46)   Counting objects:  84% (39/46)   Counting objects:  86% (40/46)   Counting objects:  89% (41/46)   Counting objects:  91% (42/46)   Counting objects:  93% (43/46)   Counting objects:  95% (44/46)   Counting objects:  97% (45/46)   Counting objects: 100% (46/46)   Counting objects: 100% (46/46), done.
+Delta compression using up to 4 threads.
+Compressing objects:   5% (1/17)   Compressing objects:  11% (2/17)   Compressing objects:  17% (3/17)   Compressing objects:  23% (4/17)   Compressing objects:  29% (5/17)   Compressing objects:  35% (6/17)   Compressing objects:  41% (7/17)   Compressing objects:  47% (8/17)   Compressing objects:  52% (9/17)   Compressing objects:  58% (10/17)   Compressing objects:  64% (11/17)   Compressing objects:  70% (12/17)   Compressing objects:  76% (13/17)   Compressing objects:  82% (14/17)   Compressing objects:  88% (15/17)   Compressing objects:  94% (16/17)   Compressing objects: 100% (17/17)   Compressing objects: 100% (17/17), done.
+Writing objects:   4% (1/24)   Writing objects:   8% (2/24)   Writing objects:  12% (3/24)   Writing objects:  16% (4/24)   Writing objects:  20% (5/24)   Writing objects:  25% (6/24)   Writing objects:  29% (7/24)   Writing objects:  33% (8/24)   Writing objects:  37% (9/24)   Writing objects:  41% (10/24)   Writing objects:  45% (11/24)   Writing objects:  50% (12/24)   Writing objects:  54% (13/24)   Writing objects:  58% (14/24)   Writing objects:  62% (15/24)   Writing objects:  66% (16/24)   Writing objects:  70% (17/24)   Writing objects:  75% (18/24)   Writing objects:  79% (19/24)   Writing objects:  83% (20/24)   Writing objects:  87% (21/24)   Writing objects:  91% (22/24)   Writing objects:  95% (23/24)   Writing objects: 100% (24/24)   Writing objects: 100% (24/24), 10.83 KiB | 1.55 MiB/s, done.
+Total 24 (delta 7), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/7)   [Kremote: Resolving deltas:  14% (1/7)   [Kremote: Resolving deltas:  28% (2/7)   [Kremote: Resolving deltas:  42% (3/7)   [Kremote: Resolving deltas:  57% (4/7)   [Kremote: Resolving deltas:  71% (5/7)   [Kremote: Resolving deltas:  85% (6/7)   [Kremote: Resolving deltas: 100% (7/7)   [Kremote: Resolving deltas: 100% (7/7), completed with 7 local objects.[K
+To https://github.com/erinbugbee/personal_website.git
+   ef370d7..643baec  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ hugo
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 42  
+  Paginator pages  |  0  
+  Non-page files   | 13  
+  Static files     | 12  
+  Processed images | 10  
+  Aliases          | 12  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 121 ms
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git commit -m "Build website"
+On branch master
+nothing to commit, working tree clean
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ rm -rf public
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git remote add origin[8Prm -rf public[8Pcd ..git push -u origin mastercommit -m "Build website"add .[Kcd public[5Phugogit push -u origin mastercommit -m "update website"remote add origin https://github.com/erinbugbee/personal_websitte.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm origin[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd origin https://github.com/erinbugbee/personal_websitte.git
+fatal: remote origin already exists.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ hugp[Ko
+[?25lBuilding sites … [?25h[K
+                   | EN  
++------------------+----+
+  Pages            | 42  
+  Paginator pages  |  0  
+  Non-page files   | 13  
+  Static files     | 12  
+  Processed images | 10  
+  Aliases          | 12  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Total in 132 ms
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd publoc[K[Kic
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .
+fatal: in unpopulated submodule 'public'
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .
+fatal: in unpopulated submodule 'public'
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git add .cd public[5Phugogit remote add origin https://github.com/erinbugbee/personal_website.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm -rf public[K[8Pcd ..git push -u origin mastercommit -m "Build website"add .[Kcd publicgit add .commit -m "Build website"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/AB7D362E.env[m
+	[31mmodified:   ../.Rproj.user/6B3B0FFD/console06/INDEX001[m
+
+no changes added to commit
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push -u origin master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+Everything up-to-date
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push -u origin mastercommit -m "Build website"[4Ppush -u origin master[Kcd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ remote rm origin
+bash: remote: command not found
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git remote rm origin
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ rm -rf public 
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git remote add origin github[K[K[K[K[K[Khttps://github.com/erinbugbee/personal_Webs[K[K[K[Kwebst i[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci te.git
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git submodi[Kule add -f https://github.com/erinbugbee/erinbugbee.gith ub.io.git public
+Cloning into '/Users/erinbugbee/Desktop/OneDrive/Personal Website/personal_website/public'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)   [Kremote: Counting objects:  66% (2/3)   [Kremote: Counting objects: 100% (3/3)   [Kremote: Counting objects: 100% (3/3), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git commit -am "Commit e[Kwebsite"
