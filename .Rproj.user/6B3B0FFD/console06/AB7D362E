@@ -1580,3 +1580,59 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git add .
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git commit -m "Chaneg [K[K[Kge CNAME"
+[master 6a87df8] Change CNAME
+ 3 files changed, 149 insertions(+), 4 deletions(-)
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git push
+Enumerating objects: 13, done.
+Counting objects:   7% (1/13)   Counting objects:  15% (2/13)   Counting objects:  23% (3/13)   Counting objects:  30% (4/13)   Counting objects:  38% (5/13)   Counting objects:  46% (6/13)   Counting objects:  53% (7/13)   Counting objects:  61% (8/13)   Counting objects:  69% (9/13)   Counting objects:  76% (10/13)   Counting objects:  84% (11/13)   Counting objects:  92% (12/13)   Counting objects: 100% (13/13)   Counting objects: 100% (13/13), done.
+Delta compression using up to 4 threads.
+Compressing objects:  14% (1/7)   Compressing objects:  28% (2/7)   Compressing objects:  42% (3/7)   Compressing objects:  57% (4/7)   Compressing objects:  71% (5/7)   Compressing objects:  85% (6/7)   Compressing objects: 100% (7/7)   Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 2.54 KiB | 866.00 KiB/s, done.
+Total 7 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4)   [Kremote: Resolving deltas:  50% (2/4)   [Kremote: Resolving deltas:  75% (3/4)   [Kremote: Resolving deltas: 100% (4/4)   [Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+To https://github.com/erinbugbee/personal_website.git
+   5492966..6a87df8  master -> master
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd ..
+]0;~/Desktop/OneDrive/Personal Websiteerins-air-2:Personal Website erinbugbee$ cd personal_website
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ cd public
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   CNAME[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git commit -m [K[K[K[K[K[K[K[K[K[Kadd .
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ gt[Kit commit -m "Chane[Kge CNAME"
+[master 8f95bcf] Change CNAME
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ git push
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)   Counting objects:  40% (2/5)   Counting objects:  60% (3/5)   Counting objects:  80% (4/5)   Counting objects: 100% (5/5)   Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 284 bytes | 284.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)   [Kremote: Resolving deltas: 100% (1/1)   [Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/erinbugbee/erinbugbee.github.io.git
+   a987e87..8f95bcf  master -> master
+]0;~/Desktop/OneDrive/Personal Website/personal_website/publicerins-air-2:public erinbugbee$ gi[K[Kcd ..
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+  (commit or discard the untracked or modified content in submodules)
+
+	[31mmodified:   .Rproj.user/6B3B0FFD/console06/AB7D362E[m
+	[31mmodified:   public[m (new commits, modified content)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Desktop/OneDrive/Personal Website/personal_websiteerins-air-2:personal_website erinbugbee$ git add .
