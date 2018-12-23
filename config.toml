@@ -65,7 +65,6 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "erin_bugbee@brown.edu"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  phone = "774 232 0930"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""

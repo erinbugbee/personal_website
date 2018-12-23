@@ -20,12 +20,12 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Incoming Sales Analytics & Insights Intern"
-  company = "The Walt Disney Company, Parks & Resorts"
+  company = "The Walt Disney Company"
   company_url = ""
   location = "Orlando, FL"
   date_start = "2019-05-27"
   date_end = ""
-  description = ""
+  description = "Parks, Experiences, and Consumer Products"
 
 [[experience]]
   title = "Explore Intern"
