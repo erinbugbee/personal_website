@@ -15,7 +15,7 @@ authors = []
 
 
 # Name of event and optional event URL.
-event = "Women in Data Science"
+event = "Women in Data Science Conference"
 event_url = "https://www.widscentralmass.org/"
 
 # Location of event.
