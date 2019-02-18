@@ -17,4 +17,4 @@ weight = 55
 
 [Brown Data Science Initiative](https://www.brown.edu/initiatives/data-science/news/2018/10/wonderful-world-women-data-science)
 
-[Joint Math Meetings 2017 Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf)
+[Joint Math Meetings 2018 Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf)
