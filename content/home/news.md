@@ -15,6 +15,8 @@ weight = 55
 
 +++
 
-[Brown Data Science Initiative](https://www.brown.edu/initiatives/data-science/news/2018/10/wonderful-world-women-data-science)
+[Computer Science for Societal Good, Brown CS](https://cs.brown.edu/news/2019/02/19/computer-science-societal-good/?fbclid=IwAR2p2irSQPtVvezj6flfn2Ix-w7d1SuQxUpjNTjiePokHuYftSCOY0fCHJI)
+
+[The Wonderful World of Women in Data Science, Brown Data Science Initiative](https://www.brown.edu/initiatives/data-science/news/2018/10/wonderful-world-women-data-science)
 
 [Joint Math Meetings 2018 Outstanding Poster Award](https://www.maa.org/sites/default/files/Programs/WelcomeLetterJMM2018.docx.pdf)
