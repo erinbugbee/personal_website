@@ -26,6 +26,15 @@ date_format = "January 2006"
   date_start = "2019-05-27"
   date_end = ""
   description = "Parks, Experiences, and Consumer Products"
+  
+[[experience]]
+  title = "Undergraduate Researcher"
+  company = "Learning, Memory & Decision Lab"
+  company_url = "https://sites.brown.edu/mattlab/welcome-to-the-learning-memory-and-decision-making-lab/"
+  location = "Providence, RI"
+  date_start = "2019-01-22"
+  date_end = ""
+  description = "Using reinforcement learning models to understand how place field remapping might be used to improve learning in changing environments."
 
 [[experience]]
   title = "Explore Intern"
