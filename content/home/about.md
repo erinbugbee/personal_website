@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Statistics",
-    "Artificial Intelligence",
     "Decision Science",
-    "[Data Science] (http://bds.cs.brown.edu/)"
+    "[Data Science] (http://bds.cs.brown.edu/)",
+    "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -24,12 +24,12 @@ weight = 5
 
 
 [[education.courses]]
-  course = "AB Behavioral Decision Sciences, Specialization in Artificial Intelligence"
+  course = "AB Behavioral Decision Sciences, Specialization in Human and Machine Learning"
   institution = "Brown University"
   year = 2020
 
 +++
 
-# Data, Dreams, & Coffee
+# Data, Decisions, Dreams, & Coffee
 
 

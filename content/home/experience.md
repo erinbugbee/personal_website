@@ -18,23 +18,42 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Incoming Sales Analytics & Insights Intern"
-  company = "The Walt Disney Company"
-  company_url = ""
-  location = "Orlando, FL"
-  date_start = "2019-05-27"
-  date_end = ""
-  description = "Parks, Experiences, and Consumer Products"
   
 [[experience]]
-  title = "Undergraduate Researcher"
+  title = "Head Teaching Assistant"
+  company = "Brown Computer Science"
+  company_url = "https://cs.brown.edu/courses/cs100/"
+  location = "Providence, RI"
+  date_start = "2019-09-03"
+  date_end = ""
+  description = """CSCI0100: Data Fluency for All"""
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "Sloman Lab"
+  company_url = ""
+  location = "Providence, RI"
+  date_start = "2019-09-03"
+  date_end = ""
+  description = """Studying human perception of machines in the workplace through behavioral experimentation."""
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
   company = "Learning, Memory & Decision Lab"
   company_url = "https://sites.brown.edu/mattlab/welcome-to-the-learning-memory-and-decision-making-lab/"
   location = "Providence, RI"
   date_start = "2019-01-22"
   date_end = ""
-  description = "Using reinforcement learning models to understand how place field remapping might be used to improve learning in changing environments."
+  description = """Using reinforcement learning models to understand how place field remapping might be used to improve learning in changing environments through multi-armed bandits in dynamic environments."""
+  
+[[experience]]
+  title = "Sales Analytics & Insights Intern"
+  company = "The Walt Disney Company"
+  company_url = ""
+  location = "Orlando, FL"
+  date_start = "2019-05-27"
+  date_end = "2019-08-23"
+  description = "Parks, Experiences, and Consumer Products"
 
 [[experience]]
   title = "Explore Intern"
@@ -46,7 +65,7 @@ date_format = "January 2006"
   description = """Microsoft Support Engineering Group, Cloud & AI Platform."""
   
 [[experience]]
-  title = "Researcher"
+  title = "Undergraduate Researcher"
   company = "Institute for Computational and Experimental Research in Mathematics"
   company_url = "https://icerm.brown.edu/summerug/2017/"
   location = "Providence, RI"
