@@ -18,13 +18,13 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "ScB Statistics"
+  course = "[ScB Statistics] (https://www.brown.edu/undergraduateconcentrations/statistics-scb)"
   institution = "Brown University"
   year = 2020
 
 
 [[education.courses]]
-  course = "AB Behavioral Decision Sciences, Specialization in Human and Machine Learning"
+  course = "[AB Behavioral Decision Sciences] (https://www.brown.edu/undergraduateconcentrations/behavioral-decision-sciences-ab), Specialization in Human and Machine Learning"
   institution = "Brown University"
   year = 2020
 
