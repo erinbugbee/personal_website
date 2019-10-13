@@ -40,7 +40,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Undergraduate Research Assistant"
   company = "Learning, Memory & Decision Lab"
-  company_url = "https://sites.brown.edu/mattlab/welcome-to-the-learning-memory-and-decision-making-lab/"
+  company_url = "https://sites.brown.edu/mattlab/"
   location = "Providence, RI"
   date_start = "2019-01-22"
   date_end = ""
