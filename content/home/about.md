@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Cognitive Science",
     "Statistics",
     "Decision Science",
     "[Data Science] (http://bds.cs.brown.edu/)",
