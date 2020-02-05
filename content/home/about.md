@@ -13,13 +13,13 @@ weight = 5
     "Cognitive Science",
     "Statistics",
     "Decision Science",
-    "[Data Science] (http://bds.cs.brown.edu/)",
+    "[Data Science] (http://browndata.org/)",
     "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "[ScB Statistics] (https://www.brown.edu/undergraduateconcentrations/statistics-scb)"
+  course = "[ScB Statistics with Honors] (https://www.brown.edu/undergraduateconcentrations/statistics-scb)"
   institution = "Brown University"
   year = 2020
 

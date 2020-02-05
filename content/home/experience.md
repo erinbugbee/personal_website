@@ -20,12 +20,21 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[experience]]
+  title = "Teaching Assistant"
+  company = "Brown Neuroscience Department"
+  company_url = ""
+  location = "Providence, RI"
+  date_start = "2020-01-24"
+  date_end = ""
+  description = """NEUR 1660: Neural Computations in Learning and Decision Making"""
+  
+[[experience]]
   title = "Head Teaching Assistant"
   company = "Brown Computer Science"
   company_url = "https://cs.brown.edu/courses/cs100/"
   location = "Providence, RI"
   date_start = "2019-09-03"
-  date_end = ""
+  date_end = "2019-12-20"
   description = """CSCI0100: Data Fluency for All"""
   
 [[experience]]
