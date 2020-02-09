@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-- [NEUR 1660: Neural Computations in Learning and Decision Making]
+- NEUR 1660: Neural Computations in Learning and Decision Making (Spring 2020)
 - [CSCI 0100: Data Fluency for All, Head Teaching Assistant (Fall 2019)] (https://cs.brown.edu/courses/cs100/)
 - CLPS 0220: Making Decisions (Spring 2019)
 - [CSCI 1951A: Data Science (Spring 2019)] (https://cs.brown.edu/courses/csci1951-a/)

@@ -21,7 +21,7 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Teaching Assistant"
-  company = "Brown Neuroscience Department"
+  company = "Brown Department of Neuroscience"
   company_url = ""
   location = "Providence, RI"
   date_start = "2020-01-24"
