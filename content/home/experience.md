@@ -40,7 +40,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Undergraduate Research Assistant"
   company = "Sloman Lab"
-  company_url = ""
+  company_url = "https://sites.google.com/site/slomanlab/home"
   location = "Providence, RI"
   date_start = "2019-09-03"
   date_end = ""
