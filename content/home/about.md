@@ -10,14 +10,20 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Decision Science",
     "Cognitive Science",
     "Statistics",
-    "Decision Science",
     "[Data Science] (http://browndata.org/)",
     "Artificial Intelligence"
   ]
 
 # List your qualifications (such as academic degrees).
+
+[[education.courses]]
+  course = "[PhD Behavioral Decision Research] (https://www.cmu.edu/dietrich/sds/)"
+  institution = "Carnegie Mellon University"
+  year = 2025
+
 [[education.courses]]
   course = "[ScB Statistics with Honors] (https://www.brown.edu/undergraduateconcentrations/statistics-scb)"
   institution = "Brown University"
@@ -32,5 +38,8 @@ weight = 5
 +++
 
 # Data, Decisions, Dreams, & Coffee
+
+#### I am a current senior at Brown University. In the fall of 2020, I will be a PhD Student in Behavioral Decision Research at Carnegie Mellon University. I'm passionate about my research in decision and data science, and I love coffee, Disney, and the phrase "Dream big." 
+
 
 

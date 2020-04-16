@@ -63,7 +63,7 @@ enableGitInfo = false
   avatar = "ErinKrakow.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "erin_bugbee@brown.edu"
+  email = "erin_bugbee@icloud.com"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
@@ -319,8 +319,8 @@ enableGitInfo = false
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[menu.main]]
-  name = "CV"
-  url = "files/cv.pdf"
+  name = "Resume"
+  url = "files/resume.pdf"
   weight = 7
 
 # Search.
