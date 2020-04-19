@@ -39,7 +39,7 @@ weight = 5
 
 # Data, Decisions, Dreams, & Coffee
 
-I currently a senior at Brown University. In the fall of 2020, I will be a PhD Student in Behavioral Decision Research at Carnegie Mellon University. I'm passionate about my research in decision and data science, and I love coffee, Disney, and the phrase "Dream big." 
+I am currently a senior at Brown University. In the fall of 2020, I will be a PhD Student in Behavioral Decision Research at Carnegie Mellon University. I'm passionate about my research in decision and data science, and I love coffee, Disney, and the phrase "Dream big." 
 
 
 
