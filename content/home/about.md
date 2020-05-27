@@ -25,7 +25,7 @@ weight = 5
   year = 2025
 
 [[education.courses]]
-  course = "[ScB Statistics with Honors] (https://www.brown.edu/undergraduateconcentrations/statistics-scb)"
+  course = "[ScB Statistics with Honors] (https://www.brown.edu/undergraduateconcentrations/statistics-scb), Magna Cum Laude"
   institution = "Brown University"
   year = 2020
 
@@ -38,8 +38,5 @@ weight = 5
 +++
 
 # Data, Decisions, Dreams, & Coffee
-
-I am currently a senior at Brown University. In the fall of 2020, I will be a PhD Student in Behavioral Decision Research at Carnegie Mellon University. I'm passionate about my research in decision and data science, and I love coffee, Disney, and the phrase "Dream big." 
-
 
 
