@@ -20,12 +20,21 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[experience]]
+  title = "Graduate Student"
+  company = "Dynamic Decision Making Lab @ Carnegie Mellon University"
+  company_url = "https://www.cmu.edu/dietrich/sds/ddmlab/index.html"
+  location = "Pittsburgh, PA"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """"""  
+  
+[[experience]]
   title = "Undergraduate Researcher"
   company = "Sloman Lab"
   company_url = "https://sites.google.com/site/slomanlab/home"
   location = "Providence, RI"
   date_start = "2019-09-03"
-  date_end = ""
+  date_end = "2020-09-01"
   description = """Studying human trust in machines in the workplace through behavioral experimentation."""
   
 [[experience]]
