@@ -14,6 +14,10 @@ subtitle = ""
 weight = 60
 
 +++
+Carnegie Mellon University
+
+- Thinking in Person vs. Thinking Online, Prof. Danny Oppenheimer (Fall 2020)
+
 Brown University
 
 - NEUR 1660: Neural Computations in Learning and Decision Making (Spring 2020)

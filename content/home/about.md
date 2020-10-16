@@ -37,7 +37,7 @@ weight = 5
 
 +++
 
-# Data, Decisions, Dreams, & Coffee
+# Data & Decisions
 ## [Academic Website] (https://www.cmu.edu/dietrich/sds/people/phdstudents/erin-bugbee.html)
 
 
