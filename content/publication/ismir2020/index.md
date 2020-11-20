@@ -49,7 +49,7 @@ slides = ""
 tags = ["machine learning", "music information retrieval", "topological data analysis"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://program.ismir2020.net/static/final_papers/33.pdf"
 url_preprint = ""
 url_code = "https://github.com/cgsavard/ICERM_compare_songs"
 url_dataset = ""
